@@ -13,7 +13,7 @@ let equal=() =>
     try {
         result.value=eval (result.value)
     } catch (error) {
-        alert('Enter the Valid nUmber - Mavanne olung number adi ')
+        alert('Dear Friend !Enter the Valid Number ')
     }
 }
 function Clear()
